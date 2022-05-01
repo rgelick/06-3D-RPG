@@ -1,13 +1,14 @@
-# 3D-Character
+# Project Name
+Context and date
 
-An animated 3D character that can be used in the 3D-RPG project
-
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+Description
 
 ## Implementation
+Which features you included
 
-Created in Blender 3.1.2 and Godot 3.4.2
+## References
 
-## Created By
+## Future Development
 
-Jason Francis
+## Created by
+
