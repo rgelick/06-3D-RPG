@@ -1,7 +1,7 @@
 # Project 06-3D-RPG
 Project 06 for MSCH-C220 4/30/22
 
-#Description
+## Description
 This game consists of a thrid person gaming experience on a 3D map. Your objective is to shoot all the targets and destory the drone to win the game. 
 
 ## Implementation
