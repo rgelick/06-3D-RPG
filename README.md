@@ -1,4 +1,4 @@
-# Project Name
+# Project 06-3D-RPG
 Context and date
 
 Description
@@ -11,4 +11,4 @@ Which features you included
 ## Future Development
 
 ## Created by
-
+Ross Gelick
